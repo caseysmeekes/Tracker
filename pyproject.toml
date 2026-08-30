@@ -1,0 +1,11 @@
+[project]
+name = "atc-tender-tracker"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+  "Flask>=3.0,<4",
+  "requests>=2.32,<3"
+]
+
+[tool.vercel]
+entrypoint = "api.index:app"
