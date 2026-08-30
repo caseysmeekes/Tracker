@@ -1,0 +1,84 @@
+{
+  "categories": {
+    "ATC Simulators": [
+      "air traffic control simulator",
+      "ATC simulator",
+      "tower simulator",
+      "radar simulator",
+      "area control simulator",
+      "approach simulator",
+      "controller training simulator",
+      "simulation training system",
+      "real-time ATC simulation",
+      "fast-time ATC simulation"
+    ],
+    "ATC Selection": [
+      "air traffic controller selection",
+      "ATC selection software",
+      "ATCO selection",
+      "controller aptitude",
+      "ATCO aptitude",
+      "psychometric assessment air traffic controller",
+      "cognitive assessment ATC",
+      "FEAST",
+      "controller recruitment testing",
+      "air traffic control selection platform"
+    ],
+    "ATC Training": [
+      "air traffic control training",
+      "ATCO training",
+      "controller training tools",
+      "ATC training platform",
+      "training management system ATC",
+      "simulator-based ATC training",
+      "ATC instructor tools",
+      "controller competency assessment",
+      "air traffic management training system"
+    ],
+    "Procedure Design": [
+      "instrument flight procedure design",
+      "IFP design",
+      "PBN procedure design",
+      "flight procedure design software",
+      "terminal procedure design",
+      "approach procedure design",
+      "SID STAR design",
+      "obstacle assessment procedure design",
+      "airspace procedure design"
+    ],
+    "AIM / AIS": [
+      "aeronautical information management",
+      "AIM system",
+      "aeronautical information services",
+      "AIS system",
+      "AIXM",
+      "digital aeronautical information",
+      "aeronautical data management",
+      "eAIP",
+      "NOTAM management system",
+      "aeronautical information system"
+    ]
+  },
+  "intent_terms": [
+    "tender",
+    "procurement",
+    "request for proposal",
+    "RFP",
+    "request for information",
+    "RFI",
+    "expression of interest",
+    "EOI",
+    "contract notice",
+    "framework agreement",
+    "market engagement",
+    "competitive dialogue"
+  ],
+  "exclude_terms": [
+    "job",
+    "vacancy",
+    "career",
+    "training course only",
+    "conference",
+    "event"
+  ]
+}
