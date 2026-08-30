@@ -1,0 +1,50 @@
+{
+  "procurement_sources": [
+    {
+      "id": "ted",
+      "name": "EU TED",
+      "country": "International / EU",
+      "type": "api",
+      "live_search": true,
+      "url": "https://ted.europa.eu/"
+    },
+    {
+      "id": "gets",
+      "name": "NZ GETS",
+      "country": "New Zealand",
+      "type": "rss",
+      "live_search": true,
+      "url": "https://www.gets.govt.nz/ExternalIndex.htm"
+    },
+    {
+      "id": "uk_fts",
+      "name": "UK Find a Tender",
+      "country": "United Kingdom",
+      "type": "ocds",
+      "live_search": true,
+      "url": "https://www.find-tender.service.gov.uk/Search"
+    }
+  ],
+  "ansp_watch_sources": [
+    {
+      "name": "Airways New Zealand / GETS",
+      "country": "New Zealand",
+      "url": "https://www.gets.govt.nz/"
+    },
+    {
+      "name": "Airservices Australia / AusTender",
+      "country": "Australia",
+      "url": "https://www.airservicesaustralia.com/about-us/information-for-suppliers/"
+    },
+    {
+      "name": "NAV CANADA Supplier Opportunities",
+      "country": "Canada",
+      "url": "https://www.navcanada.ca/en/corporate/information-for-suppliers.aspx"
+    },
+    {
+      "name": "NATS Supply Chain",
+      "country": "United Kingdom",
+      "url": "https://www.nats.aero/suppliercharter"
+    }
+  ]
+}
