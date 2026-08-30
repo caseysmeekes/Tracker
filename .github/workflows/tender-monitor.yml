@@ -3,6 +3,9 @@ name: Tender Monitor
 on:
   workflow_dispatch:
   schedule:
+    # Run at both UTC times that can correspond to 8am in New Zealand.
+    # The gate below allows only the run that is actually 8am Pacific/Auckland.
+    - cron: '0 19 * * *'
     - cron: '0 20 * * *'
 
 permissions:
@@ -20,6 +23,20 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Gate scheduled run to 8am New Zealand time
+        if: github.event_name == 'schedule'
+        run: |
+          SHOULD_RUN=$(python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          print(str(datetime.now(ZoneInfo('Pacific/Auckland')).hour == 8).lower())
+          PY
+          )
+          if [ "$SHOULD_RUN" != "true" ]; then
+            echo "Not 8am Pacific/Auckland. Skipping this scheduled trigger."
+            exit 0
+          fi
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -31,5 +48,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/tenders.json
-          git diff --cached --quiet || git commit -m "Update tender snapshot"
+          git diff --cached --quiet || git commit -m "Update live tender snapshot"
           git push
