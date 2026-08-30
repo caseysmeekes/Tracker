@@ -1,8 +1,4 @@
-"""Collect and rank ATC-related procurement notices.
-
-The first live adapter is TED. Additional national procurement adapters can be
-added without changing the scoring or dashboard data contract.
-"""
+"""Collect and rank ATC-related procurement notices from TED."""
 
 import json
 from datetime import datetime, timezone
@@ -12,8 +8,23 @@ from sources.ted import search_ted
 from tender_scoring import score_tender, rank_tenders
 
 ROOT = Path(__file__).resolve().parents[1]
-CONFIG = json.loads((ROOT / "config/search_terms.json").read_text())
+CONFIG = json.loads((ROOT / "config/search_terms.json").read_text(encoding="utf-8"))
 OUT = ROOT / "data/tenders.json"
+
+
+def text_value(value):
+    if value is None:
+        return ""
+    if isinstance(value, str):
+        return value
+    if isinstance(value, dict):
+        for key in ("eng", "en", "value"):
+            if key in value:
+                return text_value(value[key])
+        return " ".join(text_value(v) for v in value.values())
+    if isinstance(value, list):
+        return " ".join(text_value(v) for v in value)
+    return str(value)
 
 
 def main() -> None:
@@ -21,20 +32,18 @@ def main() -> None:
     seen = set()
     categories = CONFIG["categories"]
 
-    # Expert queries deliberately combine the domain vocabulary with procurement intent.
+    # Keep TED queries deliberately broad, then use our own relevance model.
     queries = [
-        '"air traffic control" AND (simulator OR simulation) AND (tender OR procurement OR "contract notice")',
-        '"air traffic controller" AND (selection OR aptitude OR psychometric) AND (tender OR procurement OR RFP)',
-        '"air traffic control" AND (training OR trainer) AND (tender OR procurement OR RFP)',
-        '"instrument flight procedure" AND (design OR PBN) AND (tender OR procurement OR RFP)',
-        '"aeronautical information" AND (management OR service OR AIS OR AIXM) AND (tender OR procurement OR RFP)',
+        'FT ~ "air traffic"',
+        'FT ~ "instrument flight procedure"',
+        'FT ~ "aeronautical information"',
     ]
 
     for query in queries:
-        for raw in search_ted(query):
-            title = str(raw.get("notice-title") or raw.get("title") or "").strip()
-            description = str(raw.get("description-lot") or raw.get("description") or "").strip()
-            key = str(raw.get("publication-number") or raw.get("id") or f"{title}|{description}")
+        for raw in search_ted(query, limit=100):
+            title = text_value(raw.get("notice-title") or raw.get("title")).strip()
+            description = text_value(raw.get("description-lot") or raw.get("description")).strip()
+            key = text_value(raw.get("publication-number")) or f"{title}|{description}"
             if key in seen or not title:
                 continue
             seen.add(key)
@@ -49,10 +58,10 @@ def main() -> None:
             if scored.score < 15:
                 continue
 
-            scored.country = str(raw.get("buyer-country") or "")
-            scored.buyer = str(raw.get("buyer-name") or "")
-            scored.deadline = str(raw.get("deadline-receipt-tender-date-lot") or "")
-            publication = str(raw.get("publication-number") or "")
+            scored.country = text_value(raw.get("buyer-country"))
+            scored.buyer = text_value(raw.get("buyer-name"))
+            scored.deadline = text_value(raw.get("deadline-receipt-tender-date-lot"))
+            publication = text_value(raw.get("publication-number"))
             scored.source_url = (
                 f"https://ted.europa.eu/en/notice/{publication}/html" if publication else ""
             )
@@ -65,7 +74,7 @@ def main() -> None:
         "results": [r.__dict__ for r in ranked],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    OUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":
