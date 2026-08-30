@@ -20,5 +20,16 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run tender monitor
-        run: python src/tender_monitor.py
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect live tender notices
+        run: python src/collect_tenders.py
+
+      - name: Save daily tender snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tenders.json
+          git diff --cached --quiet || git commit -m "Update tender snapshot"
+          git push
