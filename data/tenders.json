@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-30T22:23:37.775003+00:00",
+  "updated_at": "2026-08-31T23:10:07.422135+00:00",
   "live_only": true,
-  "source_count": 1,
+  "source_count": 2,
   "errors": [],
   "results": [
     {
@@ -38,6 +38,18 @@
       "matched_categories": [],
       "score": 20,
       "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "34513669",
+      "description": "34513669 [None] Request for Proposals - Supply of rituximab, infliximab and tocilizumab RFP 12:00 PM 2 Sep 2026 (Pacific/Auckland UTC+12:00) Pharmaceutical Management Agency",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "12:00 PM 2 Sep 2026 (Pacific/Auckland UTC+12:00)",
+      "source_url": "https://www.gets.govt.nz/PHARMAC/ExternalTenderDetails.htm?id=34513669",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
