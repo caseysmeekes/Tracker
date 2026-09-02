@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:22:51.562463+00:00",
+  "updated_at": "2026-09-02T21:40:01.179370+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -38,18 +38,6 @@
       "matched_categories": [],
       "score": 20,
       "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "34513669",
-      "description": "34513669 [None] Request for Proposals - Supply of rituximab, infliximab and tocilizumab RFP 12:00 PM 2 Sep 2026 (Pacific/Auckland UTC+12:00) Pharmaceutical Management Agency",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "12:00 PM 2 Sep 2026 (Pacific/Auckland UTC+12:00)",
-      "source_url": "https://www.gets.govt.nz/PHARMAC/ExternalTenderDetails.htm?id=34513669",
-      "matched_categories": [],
-      "score": 16,
-      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
@@ -113,18 +101,6 @@
       "status": "LIVE"
     },
     {
-      "title": "Adaptation and Small Repair Service",
-      "description": "This requirement is for an Adaptations and Small Repairs service to owner occupiers and private landlord tenants following assessment and recommendation by the Renfrewshire & East Renfrewshire Health and Social Care Partnerships.\nRenfrewshire Council is the lead procuring authority and is procuring this requirement for both Renfrewshire Council and East Renfrewshire Council.\nThis is a single procurement exercise for the award of four (4) contracts as detailed below;\n- Contract 1 – Renfrewshire Council – Adaptation related service\n- Contract 2 – East Renfrewshire Council – Adaptation related service\n- Contract 3 - Renfrewshire Council – Small Repair/Handyperson Service\n- Contract 4 - East Renfrewshire Council – Small Repair/Handyperson Service\nBidders must submit bids for all 4 contracts, there is no option available to bid for less than 4. Tenderers who fail to provide a tender submission for each of these 4 contracts will be treated as failing to follow the Instructions to Tenderers and procurement documents and their submission will be rejected.\nAll four contracts will be awarded to ONE Service Provider.\nFull evaluation instructions are detailed within the ITT documents.\nAny contract extension will be at the sole discretion of the relevant Council.",
-      "country": "United Kingdom",
-      "buyer": "Renfrewshire Council",
-      "deadline": "2026-09-14T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06e380",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
       "title": "PSR Lewisham Mental Health and Emotional Wellbeing Service",
       "description": "Lewisham Council (the Council) invites you to submit a Tender for the Lewisham Mental Health and Emotional Wellbeing Service.\nThe Lewisham Mental Health and Emotional Wellbeing Service will provide a single, recognisable point of access for residents seeking support with their mental health, wellbeing, and wider determinants of health. The service should offer preventative and early intervention community-based services for adults (18+) living in Lewisham experiencing emotional wellbeing and mental health challenges.\nThe contract will be between the successful provider and the Council for the period of two years, with the possibility of a 1-year extension, at the Council's sole discretion. It is expected that the successful provider will begin provision of the service(s) on 1 April 2027.\nThis procurement will be undertaken using the Provider Selection Regime (PSR) Competitive Process, in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023.",
       "country": "United Kingdom",
@@ -143,18 +119,6 @@
       "buyer": "NHS North East London Integrated Care Board",
       "deadline": "2026-09-23T12:00:00+01:00",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06ee85",
-      "matched_categories": [],
-      "score": 12,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Provision of Audience Research Services",
-      "description": "The Board of Trustees for the National Galleries of Scotland (\"NGS\") wish to award a Contract for the Provision of Audience Research Services.\nThe Service Provider is required to conduct Audience Research to provide insight and analysis about our visitors in order to support the Organisation’s 2030 Strategy, Business Plan and Key Performance Indicators (KPIs), special projects and inform organisation-wide strategic planning.\nThe Service Provider shall be a member of, accredited by, or operate in accordance with the standards, codes of conduct and professional requirements of the Market Research Society (MRS) or an equivalent recognised professional body for market research, social research, insight or analytics.\nThis Contract shall primarily provide Fieldwork Surveys and associated Project Management, Client Data Access, Analysis and Reporting for each of our four gallery sites.\nServices will be agreed to on an “as required” basis with no commitment to a minimum volume of work.\nNGS may, at its absolute discretion, require the Service Provider to provide Audience Research Services at this fifth site, currently under construction, at any time during the Contract term.\nIf permitted by applicable procurement legislation, where additional audience research requirements arise during the Contract term that constitute an extension of the Services, NGS reserves the right to procure such additional services from the Service Provider.\nFor full details of the Contract Requirements please refer to the associated Tender and Contract Documents.\nThe Service Provider must have a clear understanding of the contract requirements and the organisational needs of NGS. As part of the tender exercise, the Service Provider must detail a robust and flexible methodology for conducting Audience Research Services that will meet all data capture requirements.\nThere is no commitment to a minimum spend over the duration of the Contract. Under this Contract, no minimum spend is guaranteed.\nThe agreement will be non-exclusive i.e. NGS reserves the right, in certain, circumstances, to procure out with the Contract Agreement, as and when required.\nIn the event of unsatisfactory performance by the successful Service Provider and the termination of the contract by either party, NGS reserves the right to negotiate the continuance of the services with the second and third placed Service Providers.",
-      "country": "United Kingdom",
-      "buyer": "National Galleries of Scotland",
-      "deadline": "2026-09-28T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06e3e0",
       "matched_categories": [],
       "score": 12,
       "source": "UK Find a Tender",
