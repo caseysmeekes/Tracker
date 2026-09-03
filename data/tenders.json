@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:21:10.903659+00:00",
+  "updated_at": "2026-09-03T21:36:26.641474+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -41,12 +41,12 @@
       "status": "LIVE"
     },
     {
-      "title": "34677982",
-      "description": "34677982 [None] Speed Limit Analysis - REQUEST FOR INFORMATION (RFI) RFI 12:00 PM 3 Sep 2026 (Pacific/Auckland UTC+12:00) Queenstown-Lakes District Council",
+      "title": "34593228",
+      "description": "34593228 RFI 532-01 Request for Information - Persistent Surveillance (Air) Phase 1 RFI 4:00 PM 7 Sep 2026 (Pacific/Auckland UTC+12:00) Ministry of Defence",
       "country": "New Zealand",
       "buyer": "",
-      "deadline": "12:00 PM 3 Sep 2026 (Pacific/Auckland UTC+12:00)",
-      "source_url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34677982",
+      "deadline": "4:00 PM 7 Sep 2026 (Pacific/Auckland UTC+12:00)",
+      "source_url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=34593228",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
