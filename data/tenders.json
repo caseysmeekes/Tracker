@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:16:55.299550+00:00",
+  "updated_at": "2026-09-04T21:19:14.116089+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -97,6 +97,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06e6f3",
       "matched_categories": [],
       "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Specialist Support Service For People Bereaved By Suicide",
+      "description": "Kent County Council, on behalf of the Kent and Medway Suicide Prevention Programme and in partnership with the Kent and Medway Integrated Care Board, is seeking market engagement to inform the future procurement of a Specialist Bereavement Support Service for people affected by suicide across Kent and Medway. The service will provide timely, accessible and trauma-informed emotional and practical support to individuals impacted by suicide, including family members, friends, colleagues, witnesses and professionals. The future provider will be expected to deliver a flexible countywide service through a combination of face-to-face, telephone and virtual support, working closely with health, community and voluntary sector partners. The contract is anticipated to commence on 1 April 2027 for an initial period of three years, with the option to extend for up to two further years. Kent County Council welcomes engagement from organisations interested in helping to shape the future service and deliver innovative, high-quality support for residents affected by suicide bereavement.",
+      "country": "United Kingdom",
+      "buyer": "Kent County Council",
+      "deadline": "2026-10-05T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06dada",
+      "matched_categories": [],
+      "score": 12,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
