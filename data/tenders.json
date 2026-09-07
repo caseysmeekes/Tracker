@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T21:57:06.296286+00:00",
+  "updated_at": "2026-09-07T21:56:31.916056+00:00",
   "live_only": true,
-  "source_count": 2,
+  "source_count": 1,
   "errors": [],
   "results": [
     {
@@ -17,18 +17,6 @@
       "status": "LIVE"
     },
     {
-      "title": "PfH Materials Supply Framework",
-      "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and\nsupported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively, our Members\nmanage more than 90% of UK' social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services\nincluding framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive\nreporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section\n1(4) of that Act.\nPlease refer to www.pfh.co.uk for additional information.\nPfH is administered by Inprova Limited and is headquartered in the North West of England, with over 20 years of expertise and experience\noffering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services\nand technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector\nPfH intends to procure a national, four-year framework agreement for the provision of building and construction materials. The framework will encompass a range of supply routes and will be separated into distinct lots, with full details set out in the Tender Notice.\noffering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services\nand technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector\nPfH intends to procure a national, four-year framework agreement for the provision of building and construction materials.\nThe framework will encompass a range of supply routes and will be separated into distinct lots, with full details set out in the Tender Notice.",
-      "country": "United Kingdom",
-      "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-      "deadline": "2026-10-09T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06e625",
-      "matched_categories": [],
-      "score": 24,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
       "title": "Digital Diabetes Prevention and Primary Hypertension Programme",
       "description": "NHS Scotland intends to establish a national Framework Agreement for the provision of a Digital Diabetes Prevention and Primary Hypertension Programme. The programme will support individuals identified as being at risk of developing Type 2 Diabetes and/or those diagnosed with primary hypertension, through the delivery of evidence-based, digitally enabled lifestyle and behaviour change interventions.\nThe Authority intends to appoint a single supplier to a national Framework Agreement. The procurement will be conducted using a Restricted Procedure, comprising a Selection Stage and an Invitation to Tender (ITT) stage. Suppliers will be shortlisted following evaluation of their suitability, technical and professional capability, capacity and relevant experience, with a maximum of five suppliers invited to submit a tender.",
       "country": "United Kingdom",
@@ -38,18 +26,6 @@
       "matched_categories": [],
       "score": 20,
       "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "34593228",
-      "description": "34593228 RFI 532-01 Request for Information - Persistent Surveillance (Air) Phase 1 RFI 4:00 PM 7 Sep 2026 (Pacific/Auckland UTC+12:00) Ministry of Defence",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "4:00 PM 7 Sep 2026 (Pacific/Auckland UTC+12:00)",
-      "source_url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=34593228",
-      "matched_categories": [],
-      "score": 16,
-      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
