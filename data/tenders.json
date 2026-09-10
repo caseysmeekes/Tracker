@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:15:40.496528+00:00",
+  "updated_at": "2026-09-10T21:30:17.274482+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -25,6 +25,30 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-069193",
       "matched_categories": [],
       "score": 20,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "CAWT PEACEPLUS Community Connections and Wellbeing project (CCWP) - Delivery of Psychosocial Activities and Community Supports (WHSCT & SHSCT Areas)",
+      "description": "Rooted in local communities and working with and through existing organisations and initiatives, the CAWT Community Connection and Wellbeing Project (CCWP) will strengthen capacity to improve health and wellbeing in participating communities.\nThe project aims to help people gain the skills, tools, knowledge, and confidence needed to enable them to harness new opportunities and access high-quality, accessible health and social care supports.\nThis procurement exercise and the subsequent service to be commissioned will cover only the Northern Ireland delivery Lot Areas, which are located within the boundaries of the Southern Health and Social Care Trust (SHSCT) and the Western Health and Social Care Trust (WHSCT).\nThe service will involve the delivery of psychosocial activities (1:1 and/or group-based) and community supports (1:1 and/or group-based).\nPlease refer to the full suite of tender documents for further information on the service requirements.\nThis tender has been published on the eTendersNI.gov.uk website, and all tender documentation is available at the following link:\nhttps://etendersni.gov.uk/epps/cft/prepareViewCfTWS.do?resourceId=6477302",
+      "country": "United Kingdom",
+      "buyer": "Regional Business Services Organisation, Procurement and Logistics Service",
+      "deadline": "2026-10-12T15:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f6c1",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "School, College & Centre Passenger Transport Services",
+      "description": "Redcar and Cleveland Borough Council is seeking submissions from suppliers to join the School, College and Centre Passenger Transport Services Dynamic Purchasing System (DPS).  ). In accordance with The Public Contract Regulations 2015, Regulation 34 (28(a)), the Council is extending the DPS originally advertised on Find a Tender in 2021 (contract notice ref: 2021/S 000-010171, award notice ref: 2021/S 000-021839) to end 23 February 2029.  Suppliers already awarded to the DPS do not need to re-apply as they will automatically remain on the DPS.",
+      "country": "United Kingdom",
+      "buyer": "Redcar and Cleveland Borough Council",
+      "deadline": "2029-02-23",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f655",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
