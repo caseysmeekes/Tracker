@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-10T22:15:09.625641+00:00",
+  "updated_at": "2026-09-11T21:37:36.412330+00:00",
   "live_only": true,
-  "source_count": 1,
+  "source_count": 2,
   "errors": [],
   "results": [
     {
@@ -17,14 +17,50 @@
       "status": "LIVE"
     },
     {
-      "title": "Digital Diabetes Prevention and Primary Hypertension Programme",
-      "description": "NHS Scotland intends to establish a national Framework Agreement for the provision of a Digital Diabetes Prevention and Primary Hypertension Programme. The programme will support individuals identified as being at risk of developing Type 2 Diabetes and/or those diagnosed with primary hypertension, through the delivery of evidence-based, digitally enabled lifestyle and behaviour change interventions.\nThe Authority intends to appoint a single supplier to a national Framework Agreement. The procurement will be conducted using a Restricted Procedure, comprising a Selection Stage and an Invitation to Tender (ITT) stage. Suppliers will be shortlisted following evaluation of their suitability, technical and professional capability, capacity and relevant experience, with a maximum of five suppliers invited to submit a tender.",
-      "country": "United Kingdom",
-      "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
-      "deadline": "2026-09-24T15:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-069193",
+      "title": "34758151",
+      "description": "34758151 31401-26 Request for Information (RFI) For The Provision of a Supplier Data Directory Service RFI 5:00 PM 15 Sep 2026 (Pacific/Auckland UTC+12:00) Ministry of Defence",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 15 Sep 2026 (Pacific/Auckland UTC+12:00)",
+      "source_url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=34758151",
       "matched_categories": [],
-      "score": 20,
+      "score": 16,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "Estates Professional Services Framework Agreement",
+      "description": "Renewal tender for Estates Professional Services Framework Agreement.",
+      "country": "United Kingdom",
+      "buyer": "Scottish Police Authority",
+      "deadline": "2026-10-14T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f82c",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "The Provision of Tier 3 Community Dermatology Service on behalf of NHS Greater Manchester Integrated Care Board",
+      "description": "This is a Community Tier 3 Dermatology Service.\nThis service aims to address the specific healthcare needs of patients who require access to dermatology services where the service is delivered across the Greater Manchester conurbation.\nThe Specification contains the requirements to ensure the delivery of a local, effective, integrated patient centred, community-based, dermatology service that gives timely advice, assessment, diagnosis and treatment. This is to be delivered in line with the GM strategic aim to deliver increased quality of care closer to patient's' homes.\nThe Contract to be awarded as a result of this Procurement will have an initial term of three years commencing from the Commencement Date (as defined in the Contract) which is expected to be on 1 April 2027. The Authority may extend the initial term of the Contract by a further period of two years to a maximum term of five years.\nThe indicative overall contract value is £26,975,375.25 for the initial three-year contract term and £17,983,583.50 for the optional two-year extension period, with an estimated annual value of £8,991,791.75 and an anticipated maximum total value of £44,958,958.75 including extensions.\nFor full details of the Service and any additional information regarding this Procurement please see link to the Specification and Invitation to Tender documentation that can be accessed via SAP Ariba.\nInvitation to Tender documentation can be accessed via SAP Ariba reference Doc3193557990 at the link available in section I.III",
+      "country": "United Kingdom",
+      "buyer": "NHS Greater Manchester Integrated Care Board",
+      "deadline": "2026-10-23T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f7fd",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "ANE Therapeutic Support Services",
+      "description": "This procurement exercise relates to the re-opening of the Framework Agreement established by North Tyneside Council on behalf of Adopt North East (ANE). The original procurement was undertaken in 2023 through the NEPO Portal under reference DN623105. Should all extension options be exercised, the Framework Agreement will remain in place until 2029.\nThis framework is to establish a list of suppliers to provide medium and high level therapeutic services and specialist assessments. \n•\tMedium level - Therapeutic Parenting courses\n•\tHigh level - Social Work Assessment of Adoption Support Needs",
+      "country": "United Kingdom",
+      "buyer": "North Tyneside Borough Council",
+      "deadline": "2026-10-23T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f7b6",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
@@ -47,30 +83,6 @@
       "buyer": "Redcar and Cleveland Borough Council",
       "deadline": "2029-02-23",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f655",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Inner Moray Firth Housing & Property Maintenance Framework - 2026",
-      "description": "The Highland Council intends to put in place a Framework Agreement with a number of suitably competent, qualified and experienced Contractors to provide Housing & Property Maintenance Services for various service users/requirements for the Inner Moray Firth Area, on an ‘as and when’ required basis.\nThe Council shall give no guarantee of the volume of work or orders, if any, to be undertaken in relation to the Framework.\nThe Framework shall be divided into lots by type of service required (Housing & Property) and sub-lots individual trades, where applicable, as follows:\nLot 1 – Housing\nSub Lot\t Trade\nHR01 – \tGeneral Builder Works\nHR02 –\tSpecialist Cleaning\nHR03 – \tPlumbing\nHR04 – \tHeating & Ventilation\nHR05 – \tJoinery\nHR06 –\t General Electrical Repairs and Minor Works\nHR07 – \tSpecialist Electrical Systems and Complex Works\nHR08 – \tPainting & Decorating\nHR09 – \tRoofing & Guttering Works\nHR10 – \tGround Works and Excavation\nHR11 – \tPrincipal Contractors\nLot 2 – Property\nSub Lot Trade\nCS01 - \tCivils / Drainage\nCS02 - \tFencing & Gates\nFS01 - \tGeneral Builder Works\nFS02 - \tJoinery\nFS03 - \tPainting & Decorating\nFS04 - \tRoofing\nBS01 - \tElectrical\nBS02 - \tHeating\nBS03 - \tPlumbing\nBS04 - \tVentilation\nMS01 - \tMulti Trades\nTenderers may bid for one or more Lots and Sub Lots as long as they meet the requirements as detailed in the Specifications for Lot 1 (Housing) and Lot 2 (Property)",
-      "country": "United Kingdom",
-      "buyer": "Highland Council",
-      "deadline": "2026-09-28T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06cb64",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "PSR MSPP TWC-2637946",
-      "description": "Telford & Wrekin Council is undertaking a market engagement exercise to identify providers who may be able to deliver specialist accommodation and support for an adult with learning disabilities and complex support needs who is preparing for discharge from an inpatient setting.\nThis exercise is being undertaken to:\n•\tUnderstand market capacity and capability.\n•\tExplore accommodation options.\n•\tInform commissioning intentions.\n•\tAssist in determining the most appropriate procurement approach under the Provider Selection Regime (PSR).\nParticipation in this exercise does not constitute a call for competition and does not commit the Council to award a contract.\nThe individual presents with:\n•\tMale, aged 51. \n•\tMild Learning Disability. \n•\tCurrently residing in a specialist inpatient setting. \n•\tVerbal communicator. \n•\tIndependent with mobility. \n•\tRequires specialist support arrangements due to complex behavioural and risk management needs.\nSupport Needs\n•\tPositive Behaviour Support.\n•\tConsistent staffing team.\n•\tSupport to maintain independence.\n•\tSupport accessing community opportunities.\n•\tRobust risk management arrangements",
-      "country": "United Kingdom",
-      "buyer": "Borough of Telford & Wrekin",
-      "deadline": "2026-09-14T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06eba7",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
