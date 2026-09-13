@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:20:00.840561+00:00",
+  "updated_at": "2026-09-13T22:06:57.676323+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -23,6 +23,18 @@
       "buyer": "",
       "deadline": "5:00 PM 15 Sep 2026 (Pacific/Auckland UTC+12:00)",
       "source_url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=34758151",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "34706244",
+      "description": "34706244 RFP26-662 Request For Proposal of Supplier Capability Panel for Immunohistochemistry Testing (PD-L1) Equipment, Service and Consumables RFP 10:00 AM 16 Sep 2026 (Pacific/Auckland UTC+12:00) Health New Zealand (Te Whatu Ora)",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "10:00 AM 16 Sep 2026 (Pacific/Auckland UTC+12:00)",
+      "source_url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34706244",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
