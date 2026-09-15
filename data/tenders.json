@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-14T22:56:48.229014+00:00",
+  "updated_at": "2026-09-15T22:01:28.413134+00:00",
   "live_only": true,
-  "source_count": 2,
+  "source_count": 1,
   "errors": [],
   "results": [
+    {
+      "title": "Social Care Agency Workers Flexible Framework Agreement",
+      "description": "This procurement exercise is to establish a ‘National Flexible Framework Agreement’ in accordance with Regulations 74-76 of the Public Contracts (Scotland) Regulations 2015, “the Regulations” (further referred to as 'the Flexible Framework Agreement (FFA)') for the provision of trained and vetted Social Care Agency Workers in a variety of social care settings.\nOnce established, subject to the terms of the FFA, there may be opportunities for admission of new suppliers and existing suppliers may vary their service (see the Procurement Documents for full details).\nThe value provided in II.1.5 is an ESTIMATE only.\nTENDER INFORMATION SESSIONS\nScotland Excel is running Tenderer Information Sessions on the following dates\n– 22 September 2026 @ 1pm - 2.30pm and\n- 23 September 2026 @ 1pm - 2.30pm.\nPlease contact adultsocialcare@scotland-excel.org.uk if you would like to attend either session.",
+      "country": "United Kingdom",
+      "buyer": "Scotland Excel",
+      "deadline": "2026-10-20T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05f132",
+      "matched_categories": [],
+      "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
     {
       "title": "Provision of Associate Trainers",
       "description": "Framework Agreement for the Call-Off Provision of Associate Trainers:\nDigital Skills, Management Skills, Marketing including digital marketing and social media, Communication and Soft Skills, Health and Safety, Construction and Trade, Training and Assessment, Care, Mindfulness and Wellbeing, HR Training, Procurement, Tendering and bid writing, Accountancy systems, Visual Merchandising, Customer Service and Retail Optimisation",
@@ -17,27 +29,27 @@
       "status": "LIVE"
     },
     {
-      "title": "34758151",
-      "description": "34758151 31401-26 Request for Information (RFI) For The Provision of a Supplier Data Directory Service RFI 5:00 PM 15 Sep 2026 (Pacific/Auckland UTC+12:00) Ministry of Defence",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "5:00 PM 15 Sep 2026 (Pacific/Auckland UTC+12:00)",
-      "source_url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=34758151",
+      "title": "Albert Cross Design Contest",
+      "description": "Glasgow City Council (GCC) is initiating a landmark architectural design contest to redevelop two prominent gap sites at Albert Cross, situated within the historic East Pollokshields Conservation Area. These sites were formerly occupied by B-listed tenement blocks, which were tragically lost to fires in 2019 and 2020.\nThe Design Contest is a call for architects to submit design proposals for both sites as part shared vision for the cross.  The contest will be run as a 2 stage process, commencing with the submission of an initial diagrammatic conceptual design which will be judged anonymously by the judging panel.  From this a shortlist of 3 entrants will be invited to develop their ideas further to the Stage 2 submission with Cost Plan and named design team, from which an outright winner will then be selected.\nThe depth and complexity of the Stage 2 submission information included should be in line with RIBA Plan of Work 2020 for an “early” Stage 3: Spatial Coordination (or for an “advanced” Stage 2: Concept Design)\nIt is envisaged that, subject to approvals and acquisition of the sites, the winner may be awarded a Design Services Contract to further their design proposal into a full planning application for one or both sites, at Council’s sole discretion.\nMore detailed information is contained within the Albert Cross Design Contest Brief which is available on the Public Contract Scotland Tendering Portal.\nThe Council accordingly reserves the right, at its sole discretion, to award a Design Services Contract for the further development of the winning design in accordance with the negotiated procedure without prior publication of a Contract notice in accordance with Regulation 33(6) of The Public Contracts (Scotland) Regulations 2015.",
+      "country": "United Kingdom",
+      "buyer": "Glasgow City Council",
+      "deadline": "2026-10-16T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06fa82",
       "matched_categories": [],
       "score": 16,
-      "source": "NZ GETS",
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
-      "title": "34706244",
-      "description": "34706244 RFP26-662 Request For Proposal of Supplier Capability Panel for Immunohistochemistry Testing (PD-L1) Equipment, Service and Consumables RFP 10:00 AM 16 Sep 2026 (Pacific/Auckland UTC+12:00) Health New Zealand (Te Whatu Ora)",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "10:00 AM 16 Sep 2026 (Pacific/Auckland UTC+12:00)",
-      "source_url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34706244",
+      "title": "Framework Agreement for the Maintenance and Repair of Navigation and Communication Equipment",
+      "description": "The Scottish Government, through Marine Directorate (MD) invites tenders from suitable contractors to supply a Framework Pricing Agreement for planned maintenance, call out repair and replacement of its navigational and communication equipment on board the patrol and research vessels in operation.",
+      "country": "United Kingdom",
+      "buyer": "Scottish Government",
+      "deadline": "2026-10-15T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06fa79",
       "matched_categories": [],
       "score": 16,
-      "source": "NZ GETS",
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
