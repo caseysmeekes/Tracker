@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:42:59.052893+00:00",
+  "updated_at": "2026-09-16T21:59:29.602728+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -25,6 +25,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f501",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
+      "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities.\nThis procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT).\nTender documents available from Public Contracts Scotland.\nTender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the ‘Contact Us’ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+      "country": "United Kingdom",
+      "buyer": "University of Glasgow",
+      "deadline": "2026-10-19T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06faf0",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
