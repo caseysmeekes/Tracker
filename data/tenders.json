@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:38:43.644301+00:00",
+  "updated_at": "2026-09-17T22:00:28.208566+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -131,18 +131,6 @@
       "buyer": "Kent County Council",
       "deadline": "2026-10-05T12:00:00+01:00",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06dada",
-      "matched_categories": [],
-      "score": 12,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "PSR Lewisham Mental Health and Emotional Wellbeing Service",
-      "description": "Lewisham Council (the Council) invites you to submit a Tender for the Lewisham Mental Health and Emotional Wellbeing Service.\nThe Lewisham Mental Health and Emotional Wellbeing Service will provide a single, recognisable point of access for residents seeking support with their mental health, wellbeing, and wider determinants of health. The service should offer preventative and early intervention community-based services for adults (18+) living in Lewisham experiencing emotional wellbeing and mental health challenges.\nThe contract will be between the successful provider and the Council for the period of two years, with the possibility of a 1-year extension, at the Council's sole discretion. It is expected that the successful provider will begin provision of the service(s) on 1 April 2027.\nThis procurement will be undertaken using the Provider Selection Regime (PSR) Competitive Process, in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023.",
-      "country": "United Kingdom",
-      "buyer": "London Borough of Lewisham",
-      "deadline": "2026-09-29T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06efcc",
       "matched_categories": [],
       "score": 12,
       "source": "UK Find a Tender",
