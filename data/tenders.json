@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T22:39:34.849464+00:00",
+  "updated_at": "2026-09-18T21:33:34.516313+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -25,6 +25,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f501",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Reopening (1) of the Flexible Framework for Care at Home and Housing Support Services",
+      "description": "Renfrewshire Council has an existing Flexible Framework (\"framework\") for the provision of Care at Home and Housing Support Services under the direction of Renfrewshire Health and Social Care Partnership (RHSCP).\nThe framework allows RHSCP to purchase services to support (predominantly older) people to live independently in their own homes for as long as possible with the care and support they need being tailored to them, provided in a tailored and responsive manner. There may also be the occasional requirement for a Renfrewshire Council Children’s Services to arrange support services for a child.\nThe Service is delivered 24 hours per day, 52 weeks per year including public holidays.  The size of each individual package of care varies and is dependent on the individual’s assessed needs and outcomes.\nAs the services provided by this framework fall within the ‘Social and Other Specific Services’ category, and it is subject to the procurement regimes set out in section 7, Social and Other Specific Services, both of the Public Contracts (Scotland) Regulations 2015, a flexible approach was designed which allows “new entrants” to apply to be on the framework throughout the duration, as and when determined by RHSCP.\nRHSCP now wish to reopen the framework to new entrants, to ensure capacity to deliver services across Renfrewshire. The process followed will be the same process used to appoint the original providers.  Any tenderer bidding for appointment to the framework will be required to satisfy the same minimum criteria as those awarded a place under the original tender process.\nINTERESTED PARTIES MUST READ THE Invitation to Tender document FOR FULL DETAILS OF THE MINIMUM REQUIREMENTS FOR THIS FRAMEWORK.\n- Technical and Professional Ability (2 examples of previous experience of delivering similar services. These MUST be within the last 3 years and demonstrate relevant experience and capacity);\n- Care Inspectorate Requirements (Registered to deliver a Combined Support Service - Care at Home and a Housing Support Service (or ongoing application for Combined Service);\n- Care Inspectorate minimum Quality Grade of 3 for all key questions;\n- SSSC Registration and PVG Checks;\n- Insurance Requirements;\n- Financial Standing Requirements;\n- Health and Safety Requirements;\n- Cyber Security Requirements.\nTENDERERS MUST MEET THE MINIMUM CRITERIA, OTHERWISE THEIR SUBMISSION WILL BE EXCLUDED FROM EVALUATION AND THEY WILL NOT BE APPOINTED TO THE FLEXIBLE FRAMEWORK.\nAny Tenderer who does not meet the minimum requirements will not be eligible for appointment to the Flexible Framework but may participate in any future reopening of the Flexible Framework when these requirements have been met.",
+      "country": "United Kingdom",
+      "buyer": "Renfrewshire Council",
+      "deadline": "2026-10-30T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06c057",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
