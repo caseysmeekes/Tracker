@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:40:44.744803+00:00",
+  "updated_at": "2026-09-24T22:10:13.683723+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -25,6 +25,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f501",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Mechanical and Electrical Design Consultant Services",
+      "description": "The University Estates and Campus Services Department will have several construction and projects to advance over the next five years which will require the selective input of external consultants, including M&E (Mechanical and Electrical) Design Services.\nThe scope, standards, and expectations for the provision of M&E design works and associated services are to support the delivery of capital, refurbishment, and maintenance projects within Estates for the University of Dundee.\nThe appointed M&E design consultant shall provide comprehensive design and specification information suitable for issue as part of tender documents, and support the project throughout the RIBA work stages 0 – 7 (project initiation – to completion) while ensuring construction projects deliver value for money, comply with statutory and procurement requirements, and support the University’s strategic estates objectives.",
+      "country": "United Kingdom",
+      "buyer": "University of Dundee",
+      "deadline": "2026-10-30T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-077918",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
