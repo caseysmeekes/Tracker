@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:48:33.874245+00:00",
+  "updated_at": "2026-09-28T23:47:05.309188+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -23,18 +23,6 @@
       "buyer": "Scotland Excel",
       "deadline": "2026-10-20T12:00:00+01:00",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05f132",
-      "matched_categories": [],
-      "score": 24,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Provision of Associate Trainers",
-      "description": "Framework Agreement for the Call-Off Provision of Associate Trainers:\nDigital Skills, Management Skills, Marketing including digital marketing and social media, Communication and Soft Skills, Health and Safety, Construction and Trade, Training and Assessment, Care, Mindfulness and Wellbeing, HR Training, Procurement, Tendering and bid writing, Accountancy systems, Visual Merchandising, Customer Service and Retail Optimisation",
-      "country": "United Kingdom",
-      "buyer": "Dundee and Angus College",
-      "deadline": "2026-10-09T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f501",
       "matched_categories": [],
       "score": 24,
       "source": "UK Find a Tender",
