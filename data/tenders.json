@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-29T23:26:08.032206+00:00",
+  "updated_at": "2026-09-30T22:53:53.510439+00:00",
   "live_only": true,
-  "source_count": 1,
+  "source_count": 2,
   "errors": [],
   "results": [
     {
@@ -26,6 +26,18 @@
       "matched_categories": [],
       "score": 24,
       "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "34853056",
+      "description": "34853056 PT_2600538 Greater Christchurch Future Bus Services Procurement RFI 5:00 PM 2 Oct 2026 (Pacific/Auckland UTC+13:00) Environment Canterbury",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 2 Oct 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34853056",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
@@ -173,14 +185,14 @@
       "status": "LIVE"
     },
     {
-      "title": "School, College & Centre Passenger Transport Services",
-      "description": "Redcar and Cleveland Borough Council is seeking submissions from suppliers to join the School, College and Centre Passenger Transport Services Dynamic Purchasing System (DPS).  ). In accordance with The Public Contract Regulations 2015, Regulation 34 (28(a)), the Council is extending the DPS originally advertised on Find a Tender in 2021 (contract notice ref: 2021/S 000-010171, award notice ref: 2021/S 000-021839) to end 23 February 2029.  Suppliers already awarded to the DPS do not need to re-apply as they will automatically remain on the DPS.",
+      "title": "Reopening of the Over 65 Residential Care Home Framework for Swindon",
+      "description": "Swindon Borough Council invites expressions of interest from suitably qualified and experienced service providers for admission to the existing Over 65 Years of Age Residential Care Home Framework for Swindon.\nProject Description\nSwindon Borough Council is undertaking the first annual re-opening of its existing Residential Care Home Framework for adults aged 65 years and over within the Swindon locality. This Framework was originally commissioned under public contract regulations and will continue to use this until the end of the total term. This framework commenced on 1st January 2026 and is currently operating within the initial contract period. Existing Framework providers are not required to reapply as part of this process. Successful applicants will join the existing Framework from 1st January 2027.\nThis procurement exercise does not constitute a new procurement or re-tender of the Framework. It provides an opportunity for providers that are not currently admitted to the Framework, or that were unsuccessful in previous application rounds, to apply for admission to the Framework.\nThe Framework has an initial term ending on 31st December 2027, with the option for the Council to extend by up to two further periods of two years each, resulting in a maximum potential Framework duration of six years from the original commencement date. Providers admitted through this re-opening exercise may remain on the Framework for the remainder of the Framework term, subject to extension options being exercised and continued compliance with contractual requirements.\nThe estimated value of placements commissioned through the Framework during the period 1st January 2027 to 31st December 2027 is approximately £12 million, with a potential maximum Framework value of approximately £60 million should all extension periods be exercised.\nThe Framework will continue to be re-opened annually via the Supplying the South West Portal to allow additional providers to apply for admission.\nThe Framework will be advertised and all applicants must meet the minimum selection and award criteria to be admitted to the Framework.\nThis Framework is for in-borough residential care homes only.\nFor all over-65 residential care needs (standard, enhanced and complex), providers will be required to operate within the Council's published fee structure. Acceptance of the Council's fee structure will form part of the Framework requirements.\nTo participate, suppliers must register as a supplier with ProContract at www.supplyingthesouthwest.org.uk and register an interest in the opportunity before obtaining access to the tender documents. In the event of difficulties registering as a supplier, please contact the Proactis Support Team at ProContractSuppliers@proactis.com\nTender clarification deadline: 7th October 2026, 12:00 noon (UK Local Time). Clarification questions must be submitted via the Messaging facility within the ProContract portal. Responses will be issued periodically through the portal.\nTender submission deadline: 14th October 2026, 12:00 noon (UK Local Time), via the ProContract portal: https://www.supplyingthesouthwest.org.uk/\nPlease note that this opportunity may be advertised on Find a Tender Service, Contracts Finder and other procurement websites; however, Supplying the South West Portal is the only portal containing all documentation required to submit a response. The procurement reference is DN831353\nNo tender submissions will be considered without completing the tender documents in full, including all required attachments, and submitting them in accordance with the instructions contained within the tender documentation",
       "country": "United Kingdom",
-      "buyer": "Redcar and Cleveland Borough Council",
-      "deadline": "2029-02-23",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f655",
+      "buyer": "Swindon Borough Council",
+      "deadline": "2026-10-14T12:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-077d5b",
       "matched_categories": [],
-      "score": 16,
+      "score": 12,
       "source": "UK Find a Tender",
       "status": "LIVE"
     }
