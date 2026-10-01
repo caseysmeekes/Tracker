@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:28:05.604656+00:00",
+  "updated_at": "2026-10-01T23:03:07.082811+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -155,30 +155,6 @@
       "buyer": "NHS Greater Manchester Integrated Care Board",
       "deadline": "2026-10-23T12:00:00+01:00",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f7fd",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "ANE Therapeutic Support Services",
-      "description": "This procurement exercise relates to the re-opening of the Framework Agreement established by North Tyneside Council on behalf of Adopt North East (ANE). The original procurement was undertaken in 2023 through the NEPO Portal under reference DN623105. Should all extension options be exercised, the Framework Agreement will remain in place until 2029.\nThis framework is to establish a list of suppliers to provide medium and high level therapeutic services and specialist assessments. \n•\tMedium level - Therapeutic Parenting courses\n•\tHigh level - Social Work Assessment of Adoption Support Needs",
-      "country": "United Kingdom",
-      "buyer": "North Tyneside Borough Council",
-      "deadline": "2026-10-23T12:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f7b6",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "CAWT PEACEPLUS Community Connections and Wellbeing project (CCWP) - Delivery of Psychosocial Activities and Community Supports (WHSCT & SHSCT Areas)",
-      "description": "Rooted in local communities and working with and through existing organisations and initiatives, the CAWT Community Connection and Wellbeing Project (CCWP) will strengthen capacity to improve health and wellbeing in participating communities.\nThe project aims to help people gain the skills, tools, knowledge, and confidence needed to enable them to harness new opportunities and access high-quality, accessible health and social care supports.\nThis procurement exercise and the subsequent service to be commissioned will cover only the Northern Ireland delivery Lot Areas, which are located within the boundaries of the Southern Health and Social Care Trust (SHSCT) and the Western Health and Social Care Trust (WHSCT).\nThe service will involve the delivery of psychosocial activities (1:1 and/or group-based) and community supports (1:1 and/or group-based).\nPlease refer to the full suite of tender documents for further information on the service requirements.\nThis tender has been published on the eTendersNI.gov.uk website, and all tender documentation is available at the following link:\nhttps://etendersni.gov.uk/epps/cft/prepareViewCfTWS.do?resourceId=6477302",
-      "country": "United Kingdom",
-      "buyer": "Regional Business Services Organisation, Procurement and Logistics Service",
-      "deadline": "2026-10-12T15:00:00+01:00",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f6c1",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
