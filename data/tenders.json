@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T00:42:03.364177+00:00",
+  "updated_at": "2026-10-06T01:06:48.239552+00:00",
   "live_only": true,
-  "source_count": 1,
+  "source_count": 2,
   "errors": [],
   "results": [
     {
@@ -38,6 +38,18 @@
       "matched_categories": [],
       "score": 24,
       "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "34899397",
+      "description": "34899397 DIA/2026/004 Request for Proposal - Digital Child Exploitation Filtering System (DCEFS) RFP 5:00 PM 7 Oct 2026 (Pacific/Auckland UTC+13:00) Department of Internal Affairs",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 7 Oct 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=34899397",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
