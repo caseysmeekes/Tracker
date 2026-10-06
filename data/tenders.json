@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:06:48.239552+00:00",
+  "updated_at": "2026-10-06T22:57:16.531539+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -47,6 +47,18 @@
       "buyer": "",
       "deadline": "5:00 PM 7 Oct 2026 (Pacific/Auckland UTC+13:00)",
       "source_url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=34899397",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "34889918",
+      "description": "34889918 RFP26-661 Request For Proposal of Supplier Capability Panel for high-throughput Laboratory Biochemistry Testing (HbA1c) Analysers, Consumables and Maintenance Services RFP 10:00 AM 9 Oct 2026 (Pacific/Auckland UTC+13:00) Health New Zealand (Te Whatu Ora)",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "10:00 AM 9 Oct 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34889918",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
@@ -145,6 +157,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06fa79",
       "matched_categories": [],
       "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "South West London Mental Health Support Teams",
+      "description": "NHS South West London Integrated Care Board (the Authority) is seeking to commission a Mental Health Support Team (MHST) service comprising 25 operational and developing MHSTs across the six boroughs. The service will provide prevention and early intervention mental health support through a standardised and equitable MHST offer, in accordance with the specified requirements, to improve access to care, reduce health inequalities, and deliver improved outcomes for children and young people across South West London.\nProcured through a competitive process under the Health Care Services (Provider Selection Regime) Regulations 2023, the Authority intends to appoint a Lead Provider with overall accountability for the governance, management, and delivery of the service. \nThe Lead Provider will oversee all operational and developing MHSTs across South West London and will be responsible for the mobilisation, delivery and service integration of future MHST teams required as part of the planned expansion to achieve 100% MHST coverage across South West London by December 2029.\nThe decisions applicable to this Procurement will be made by the Authority.\nThe Procurement is being managed by NHS London Commercial Hub (NHS LCH) hosted by NHS North East London, on behalf of the Authority, in connection with an Invitation to Tender (ITT) exercise that is being conducted, based on the competitive process under the Health Care Services (Provider Selection Regime) regulations 2023 (\"the Regulations\"(as amended).\nNone of the references to \"ITT\", \"Bid\", or the use of the term \"tender process\", or any other indication, shall be taken to mean that the Authority intends to hold itself bound to any of the Regulations, save those applicable to PSR provisions regarding the Competitive Process.\nFurther information regarding the Authority is available from:\nhttps://www.southwestlondon.icb.nhs.uk/\nThe lifetime Value of the contract is £89,916,960 excluding VAT.\nThe contract term is for three (3) years with an option for extension of further three (1 + 1 + 1) years at the sole discretion of the Authority.\nThe contract will start on 01/04/2027 and end 31/03/2030, if the 1 + 1 + 1 optional extensions are utilised the maximum contract end date will be 31/03/2033.\nThe maximum duration of the contract is 6 years (72 months).\nFurther details of the procurement, including service requirements are included in the procurement documents.",
+      "country": "United Kingdom",
+      "buyer": "NHS SOUTH WEST LONDON INTEGRATED CARE BOARD",
+      "deadline": "2026-11-02",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0781e5",
+      "matched_categories": [],
+      "score": 12,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
