@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T22:53:32.629770+00:00",
+  "updated_at": "2026-10-16T21:58:21.752286+00:00",
   "live_only": true,
-  "source_count": 2,
+  "source_count": 1,
   "errors": [],
   "results": [
     {
@@ -53,15 +53,15 @@
       "status": "LIVE"
     },
     {
-      "title": "34933610",
-      "description": "34933610 26.182.01 Request for Proposal - Disability Care and Support Workers Safeguarding Training Package and Implementation RFP 5:00 PM 16 Oct 2026 (Pacific/Auckland UTC+13:00) Ministry of Social Development",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "5:00 PM 16 Oct 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34933610",
+      "title": "Ground Maintenance Services",
+      "description": "Falkirk Council wishes to undertake a tendering process to enter into a Framework Agreement with suitably experienced contractors for the provision of Ground Maintenance Service within the Falkirk Council area of Operation.\nKey aims of the service are to provide a competitive, reliable, and customer-focused service to Place Services Roads and Grounds Maintenance Departments which will supplement the Council’s own in-house service.\nThe framework consist of 2 Lots, to which up to a maximum of 5 Contractors may be appointed per lot.\n- Lot 1: Arboriculture Services\n- Lot 2: Grass Cutting for Rural Area.",
+      "country": "United Kingdom",
+      "buyer": "Falkirk Council",
+      "deadline": "2026-11-16T11:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07890e",
       "matched_categories": [],
       "score": 16,
-      "source": "NZ GETS",
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
