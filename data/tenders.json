@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:13:18.339716+00:00",
+  "updated_at": "2026-10-21T23:00:52.053768+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -59,6 +59,18 @@
       "buyer": "",
       "deadline": "12:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00)",
       "source_url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34175889",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "34943969",
+      "description": "34943969 26.183.01 Request for Proposal - Safeguarding Resources, Guidance and Tools for Disabled People and their Family and Whānau Carers RFP 5:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00) Ministry of Social Development",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34943969",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
