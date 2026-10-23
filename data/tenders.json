@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T22:57:36.054697+00:00",
+  "updated_at": "2026-10-23T21:56:48.814308+00:00",
   "live_only": true,
-  "source_count": 2,
+  "source_count": 1,
   "errors": [],
   "results": [
     {
@@ -53,27 +53,39 @@
       "status": "LIVE"
     },
     {
-      "title": "34175889",
-      "description": "34175889 [None] EOI for Partnership Opportunity Canterbury Provincial Chambers Buildings RFI 12:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00) Christchurch City Council",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "12:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34175889",
+      "title": "L26036-T-JW Foreign Exchange Tender",
+      "description": "London Luton Airport Operations Limited (“LLA”) is voluntarily advertising this opportunity through Find a Tender solely to enhance the profile and visibility of the opportunity. LLA does not consider to be subject to the Procurement Act 2023 and publication of this notice does not constitute an acceptance that the Procurement Act 2023 applies to LLA or to this procurement. \nLondon Luton Airport (LLA) is seeking to appoint a Foreign Exchange (FX) concession partner to deliver an innovative and customer-focused FX service. Bidders must demonstrate their ability to provide high-quality service, operational excellence, value for money, and an enhanced passenger experience for approximately 19 million passengers per annum.\nThe concession will have a maximum term of five (5) years. Bidders may submit their proposal on the basis of a three (3), four (4) or five (5) year contractual term, in accordance with the break and notice provisions set out in the procurement documents. Please note that the duration stated further below in this notice represents the maximum contract term available for bidders to select. The anticipated commencement date is February 2027.\nThis is a two-stage procurement process. Applicants successfully completing the Pre-Qualification Questionnaire (PQQ) stage will be invited to participate in the Request for Bid (RFB) stage. The procurement documents are available via the Jaggaer eProcurement portal.",
+      "country": "United Kingdom",
+      "buyer": "London Luton Airport Operations Limited",
+      "deadline": "2026-10-27T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078f75",
       "matched_categories": [],
       "score": 16,
-      "source": "NZ GETS",
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
-      "title": "34943969",
-      "description": "34943969 26.183.01 Request for Proposal - Safeguarding Resources, Guidance and Tools for Disabled People and their Family and Whānau Carers RFP 5:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00) Ministry of Social Development",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "5:00 PM 23 Oct 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34943969",
+      "title": "L26036-T-JW Foreign Exchange Tender",
+      "description": "London Luton Airport Operations Limited (“LLA”) is voluntarily advertising this opportunity through Find a Tender solely to enhance the profile and visibility of the opportunity. LLA does not consider to be subject to the Procurement Act 2023 and publication of this notice does not constitute an acceptance that the Procurement Act 2023 applies to LLA or to this procurement. \nLondon Luton Airport (LLA) is seeking to appoint a Foreign Exchange (FX) concession partner to deliver an innovative and customer-focused FX service. Bidders must demonstrate their ability to provide high-quality service, operational excellence, value for money, and an enhanced passenger experience for approximately 19 million passengers per annum.\nThe concession will have a maximum term of five (5) years. Bidders may submit their proposal on the basis of a three (3), four (4) or five (5) year contractual term, in accordance with the break and notice provisions set out in the procurement documents. Please note that the duration stated further below in this notice represents the maximum contract term available for bidders to select. The anticipated commencement date is February 2027.\nThis is a two-stage procurement process. Applicants successfully completing the Pre-Qualification Questionnaire (PQQ) stage will be invited to participate in the Request for Bid (RFB) stage. The procurement documents are available via the Jaggaer eProcurement portal.",
+      "country": "United Kingdom",
+      "buyer": "London Luton Airport Operations Limited",
+      "deadline": "2026-10-28T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078f71",
       "matched_categories": [],
       "score": 16,
-      "source": "NZ GETS",
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
+      "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and\nsupported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members\nmanage more than 90% of UK’ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services\nincluding framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive\nreporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section\n1(4) of that Act.\nPlease refer to www.pfh.co.uk for additional information.\nPfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience\noffering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services\nand technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
+      "country": "United Kingdom",
+      "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
+      "deadline": "2026-11-17T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078f5f",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
@@ -145,18 +157,6 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07834a",
       "matched_categories": [],
       "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "South West London Mental Health Support Teams",
-      "description": "NHS South West London Integrated Care Board (the Authority) is seeking to commission a Mental Health Support Team (MHST) service comprising 25 operational and developing MHSTs across the six boroughs. The service will provide prevention and early intervention mental health support through a standardised and equitable MHST offer, in accordance with the specified requirements, to improve access to care, reduce health inequalities, and deliver improved outcomes for children and young people across South West London.\nProcured through a competitive process under the Health Care Services (Provider Selection Regime) Regulations 2023, the Authority intends to appoint a Lead Provider with overall accountability for the governance, management, and delivery of the service. \nThe Lead Provider will oversee all operational and developing MHSTs across South West London and will be responsible for the mobilisation, delivery and service integration of future MHST teams required as part of the planned expansion to achieve 100% MHST coverage across South West London by December 2029.\nThe decisions applicable to this Procurement will be made by the Authority.\nThe Procurement is being managed by NHS London Commercial Hub (NHS LCH) hosted by NHS North East London, on behalf of the Authority, in connection with an Invitation to Tender (ITT) exercise that is being conducted, based on the competitive process under the Health Care Services (Provider Selection Regime) regulations 2023 (\"the Regulations\"(as amended).\nNone of the references to \"ITT\", \"Bid\", or the use of the term \"tender process\", or any other indication, shall be taken to mean that the Authority intends to hold itself bound to any of the Regulations, save those applicable to PSR provisions regarding the Competitive Process.\nFurther information regarding the Authority is available from:\nhttps://www.southwestlondon.icb.nhs.uk/\nThe lifetime Value of the contract is £89,916,960 excluding VAT.\nThe contract term is for three (3) years with an option for extension of further three (1 + 1 + 1) years at the sole discretion of the Authority.\nThe contract will start on 01/04/2027 and end 31/03/2030, if the 1 + 1 + 1 optional extensions are utilised the maximum contract end date will be 31/03/2033.\nThe maximum duration of the contract is 6 years (72 months).\nFurther details of the procurement, including service requirements are included in the procurement documents.",
-      "country": "United Kingdom",
-      "buyer": "NHS SOUTH WEST LONDON INTEGRATED CARE BOARD",
-      "deadline": "2026-11-02",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0781e5",
-      "matched_categories": [],
-      "score": 12,
       "source": "UK Find a Tender",
       "status": "LIVE"
     }
