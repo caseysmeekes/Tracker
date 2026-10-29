@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-28T23:53:00.162642+00:00",
+  "updated_at": "2026-10-29T23:11:36.474638+00:00",
   "live_only": true,
-  "source_count": 2,
+  "source_count": 1,
   "errors": [],
   "results": [
+    {
+      "title": "Court Appointed Intermediary Services - Framework Re-Opening April 2026",
+      "description": "This notice relates to the re-opening of framework agreements originally awarded following a procurement exercise conducted under the PCR2015 light tough regime, following a process similar to the open procedure.\nThe Ministry of Justice (MoJ) is inviting tenders for the provision of Court Appointed Intermediary Services (CAIS), to support vulnerable defendants in the criminal jurisdiction and vulnerable parties and witnesses in the civil, family and tribunal jurisdictions. These services will be provided in courts and tribunals in England and Wales and tribunals in Scotland.\nIntermediaries facilitate impartial communication to enable complete, coherent and accurate communication between vulnerable people and the courts/tribunals. Intermediaries may be instructed to provide an assessment of a person's communication needs, and provide recommendations on measures that could be put in place by the court to support vulnerable people, young people, children and other individuals who may need assistance during court proceedings. The intermediary may also be required to attend hearings to provide such assistance and support.\nFor the avoidance of doubt, the MoJ is only seeking tenders in relation to intermediary services that currently fall outside the remit of the MoJ Witness Intermediary Scheme (MoJ WIS). All requests for intermediary support for witnesses in criminal cases will continue to be managed via the MoJ WIS.",
+      "country": "United Kingdom",
+      "buyer": "Ministry of Justice",
+      "deadline": "2026-11-12T17:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07930d",
+      "matched_categories": [],
+      "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
     {
       "title": "Commissioning Homes for Children Looked After & Care Leavers PDPS - Lot 2 Rd 10",
       "description": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services.\nThis notice is for the re-opening of Lot 2 Round 10.\nThe services include:\nLot 1: Provision of Semi-Independent Living Services - already established\nLot 2: Provision of Children's Homes regulated by Ofsted - already established\nLot 3: Provision of Supported Lodgings\nLot 4: Provision of Independent Fostering Agencies (IFA) regulated by Ofsted\nThese services will be available to looked after children, care leavers and young people who are homeless or at risk of homelessness .\nPotential Suppliers are invited to Tender for one or more of the Lots.\nThis PDPS is open for use to the following (and subject to Section 3 Scope of Agreement of LAC PDPS Agreement Processor):\n• any Public Body outlined in either Part I or Part II of the Local Authorities (Goods and Services) (Public Bodies) Order 1972. Details of these can be found at http://www.legislation.gov.uk/uksi/1972/853/made\nThe Procurement is being procured by the Authority for the benefit of the Authority and the Partner Organisations.\nThe procurement is being conducted in accordance with the Public Contracts Regulations 2015. The procurement is subject to the light-touch regime under Section 7 Social and Other Specific Services. Under Regulation 76 the Council is free to establish a procedure, provided that procedure is sufficient to ensure compliance with the principles of transparency and equal treatment of economic operators (Suppliers).\nThe Authority has created a tender process outlined below, as part of the PDPS applying the award criteria specified in this contract notice.\nAny interested organisation/consortium with relevant experience may submit a Bid in response to this ITT.\nThe Council is using the one stage procedure for admission onto the PDPS\nThe Light Touch PDPS will be conducted in staged Rounds.\nRounds will open and close throughout the lifetime of the PDPS at the Authorities discretion. Following on from this, each Round will be open to new or previously unsuccessful Suppliers to submit their bid.\nThis means that applications can be submitted throughout the duration of the PDPS, but the Council will only process the applications as and when the round is closed. Please note the length of Rounds will vary throughout the lifetime of the PDPS.\nFurther Rounds will be communicated within the tender documents at time of publication. Any changes to the procurement Timetable shall be notified to all Tenderers as soon as practicable.",
@@ -50,18 +62,6 @@
       "matched_categories": [],
       "score": 24,
       "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "35164368",
-      "description": "35164368 [None] RFI Orion Procurement Tracker RFI 12:00 PM 30 Oct 2026 (Pacific/Auckland UTC+13:00) Orion New Zealand Limited",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "12:00 PM 30 Oct 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/Orion/ExternalTenderDetails.htm?id=35164368",
-      "matched_categories": [],
-      "score": 16,
-      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
