@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:47:03.750768+00:00",
+  "updated_at": "2026-10-30T22:53:26.905440+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -167,18 +167,6 @@
       "buyer": "Dundee City Council",
       "deadline": "2026-11-20T12:00:00Z",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0788cb",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "NHS Tayside Laundry Replacement",
-      "description": "The product for replacement under this procurement is the existing Wash Line within the NHS Tayside Laundry, based at Ninewells Hospital, Dundee.\nThe various pieces of equipment have exceeded the end of their recommended life expectancy and are now due for replacement.\nThe requirement will be tendered as a single lot, to include:\n- Continuous Batch Washer\n- Material Handling System\n- Drying Solution\n- Automation and Integrated Control System\nThe Contract is required to be let for both the Supply of the replacement Laundry Wash Line and the installation on a “turnkey” basis with the successful bidder being appointed on a Prime Contractor basis with overall responsibility for the fulfilment of the Contract.\nThe ongoing maintenance of this equipment is also included within the scope of the tender.",
-      "country": "United Kingdom",
-      "buyer": "NHS Tayside",
-      "deadline": "2026-11-13T10:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0787b8",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
