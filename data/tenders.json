@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T00:23:08.518444+00:00",
+  "updated_at": "2026-11-05T00:15:35.077664+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -61,6 +61,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d05",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "EEAST - DPS Framework for Learning and Training Services (24-T23)",
+      "description": "The East of England Service NHS Trust (“the Authority”) covers the six counties which make up the East of England – Bedfordshire, Cambridgeshire, Essex, Hertfordshire, Norfolk and Suffolk and provides a range of services, but is best known for the 999-emergency service.  Our dedicated and skilled staff work 365 days a year, 24 hours a day to make sure patients receive the best possible care.<br/> <br/>Our diverse area is spread over about 7,500 square miles and contains a mix of rural, coastal and urban areas – from Watford to Wisbech and Cromer to Canvey Island.  Our services are tailored to meet the needs of each community’s differing environmental and medical needs.<br/> <br/>The Authority employs more than 5,000 staff and 1,000 volunteers to deal with 1,384,547 emergency calls every year.  Staff and volunteers are trained and experienced in caring for patients in a variety of situations, ranging from life-threatening illness and injury to less serious situations such as falls in the home or patients with minor injuries.<br/> <br/>In addition, the Authority handles more than one million non-emergency patient journeys to and from routine hospital appointments.  Further information regarding the Authority can be obtained from www.eastamb.nhs.uk.<br/> <br/>This is a procurement to establish a Dynamic Purchasing System (DPS) of multiple categories and suppliers to provide a range of Learning & Training Services to the Authority.<br/> <br/>The contract notice relates to the setting up of a Dynamic Purchasing System (DPS) which will be by the East of England Ambulance Service to procure a range of Learning & Training Services<br/> <br/>The Dynamic Purchasing System will be valid until 27th October 2028.  Throughout the life of the DPS, the Authority will undertake reviews of its effectiveness and reserves the right to seek new solutions<br/> <br/>In section II.2 - I cannot see this section but under II.2.7 - Description of renewals can you add the following please<br/>Estimated timing for further notices to be published.  This DPS will be valid until 27th October 2028.  This notice will be re-issued on an annual basis to ensure transparency and continuation of accessibility to the DPS for those interested in participating.",
+      "country": "United Kingdom",
+      "buyer": "East of England Ambulance Service NHS Trust",
+      "deadline": "2028-10-01T17:00:00+01:00",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b290",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
