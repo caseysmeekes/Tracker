@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:43:23.146048+00:00",
+  "updated_at": "2026-11-05T23:59:45.074088+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -61,6 +61,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d05",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Sight Testing and Dispensing of Spectacles to Children and Young People in Special Educational Settings (SES) - South West",
+      "description": "This notice is inform the market of an opportunity to deliver Sight Testing and Dispensing of Spectacles to Children and Young People in Special Educational Settings within the South West region, covering Devon, Cornwall and Isles of Scilly (CIOS), Bristol, North Somerset and South Gloucestershire (BNSSG) and Gloucestershire Integrated Care Boards (ICBs). \nBNSSG, Gloucestershire, Devon and CIOS ICBs ('the Commissioner') are the contracting authorities for this procurement. The Commissioner may be subject to a restructure of its functions during or following this procurement process. In such circumstances, the functions to which this contract relates may be transferred to a successor or replacement public body. Bidders will be informed of any such change, and any changes because of it.\nThe procurement is divided into the following Lots: \n•\tLot 1: BNSSG and Gloucestershire\n•\tLot 2: Devon and CIOS \nThe contract(s) term will be for 3 years and 5 months (inclusive of the mobilisation period) plus a possible extension of up to a period of a further 2 years. Both contract(s) are due to commence on 01 April 2027 with service delivery anticipated to commence from 01 September 2027. \nThe annual contract value for Lot 1 is £306,000 with a total maximum contract value of £1,530,000 (including extension option).\nThe annual contract value for Lot 2 is £350,000 with a total maximum contract value of £1,750,000 (including extension option). \nInterested parties who wish to take part in the procurement are invited to take part in an Invitation to Tender (ITT) process, based on the competitive 'open' procedure. All ITT responses must be returned by 12 noon on 10th December 2026.\nInterested providers will be able to view the opportunity and access the tender documentation via the 'Live Opportunities' list on the e-procurement system, Atamis, available on the following link: https://health-family.force.com/s/Welcome\nThis exercise is being carried out by NHS South, Central and West Commissioning Support Unit (SCW) on behalf of the Commissioner.\nSCW is currently subject to restructuring, and the management of this procurement may therefore move to a successor at some point during the procurement process.  Bidders will be informed of any such change, and any administrative changes because of it.",
+      "country": "United Kingdom",
+      "buyer": "NHS Devon Integrated Care Board",
+      "deadline": "2026-12-10T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06efc1",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
