@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:43:44.750799+00:00",
+  "updated_at": "2026-11-06T23:41:04.518302+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -61,6 +61,30 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d05",
       "matched_categories": [],
       "score": 24,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Retail Data Management, Analytics and Automation",
+      "description": "London Luton Airport Operations Limited (“LLA”) is voluntarily advertising this opportunity through Find a Tender solely to enhance the profile and visibility of the opportunity. LLA does not consider to be subject to the Procurement Act 2023 and publication of this notice does not constitute an acceptance that the Procurement Act 2023 applies to LLA or to this procurement.\nThis tender is for an automated, scalable sales and analytics solution for Duty Free and terminal retail, integrating with multiple POS systems to provide accurate reporting and actionable insights.",
+      "country": "United Kingdom",
+      "buyer": "London Luton Airport Operations Limited",
+      "deadline": "2027-01-08T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b6cb",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "Universal Stop Smoking Service",
+      "description": "The London Borough of Ealing is undertaking preliminary market engagement to inform the future procurement of a Universal Stop Smoking Service.<br/><br/>This notice is issued for the purposes of preliminary market engagement only and does not constitute a call for competition or commencement of a procurement process. <br/><br/>This premarket engagement and future procurement is being undertaken under the Health Care Services (Provider Selection Regime) Regulations 2023.",
+      "country": "United Kingdom",
+      "buyer": "London Borough of Ealing Council",
+      "deadline": "2026-11-20",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b664",
+      "matched_categories": [],
+      "score": 16,
       "source": "UK Find a Tender",
       "status": "LIVE"
     },
@@ -167,30 +191,6 @@
       "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
       "deadline": "2026-11-17T12:00:00Z",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078f5f",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Accommodation Only Services for People Experiencing Homelessness - Private Rented Sector Accommodation",
-      "description": "Glasgow City Council invites tender bids for the provision of private rented sector accommodation, together with all associated housing management services, for use as temporary furnished accommodation for individuals and families experiencing homelessness.\nThe Council intends to award up to four separate contracts under this procurement.",
-      "country": "United Kingdom",
-      "buyer": "Glasgow City Council",
-      "deadline": "2026-11-20T12:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-069d66",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Subcontracting Framework for Works and Associated Services",
-      "description": "Tayside Contracts invites suitably qualified and experienced contractors to submit a completed Single Procurement Document (SPD) in connection with the proposed Subcontracting Framework for Works and Associated Services.\nThe Framework is intended to provide a flexible, compliant and efficient route to market for subcontracted works and specialist services that supplement internal delivery capacity and support operational resilience across the organisation.\nThis procurement will be conducted using the Restricted Procedure in accordance with the Public Contracts (Scotland) Regulations 2015.\nThe procurement will be undertaken in two stages:\n- Stage 1 - Selection Stage (SPD): Applicants must complete the Single Procurement Document (SPD) and meet the minimum selection criteria. Responses will be evaluated to shortlist Applicants to proceed to the ITT stage. The Invitation to tender documents will not be issued at this stage.\n-Stage 2 - Invitation to Tender (ITT): Shortlisted Applicants will be invited to submit detailed technical and commercial tenders, including pricing, methodology and quality proposals, for evaluation and Framework appointment.",
-      "country": "United Kingdom",
-      "buyer": "Tayside Contracts",
-      "deadline": "2026-11-26T12:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-069834",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
