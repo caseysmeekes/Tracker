@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:32:22.956603+00:00",
+  "updated_at": "2026-11-10T23:57:43.912143+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -62,6 +62,18 @@
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "EDC/2026/4497 Framework Agreement for Drainage Civil Engineering Works",
+      "description": "East Dunbartonshire Council wishes to establish a public contract (within the meaning of the Procurement Regulations) and appoint a number of suppliers under an overarching ranked framework arrangement to carry out work and provide Work Orders in relation to Drainage Civil Engineering Works throughout the local government area of East Dunbartonshire over a minimum period of three (3) years with an option to extend up to a further 12 months.",
+      "country": "United Kingdom",
+      "buyer": "East Dunbartonshire Council",
+      "deadline": "2026-12-11T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b8eb",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
@@ -191,30 +203,6 @@
       "buyer": "East Renfrewshire Council",
       "deadline": "2026-11-26T12:00:00Z",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-079047",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "PURCH2986 Contract Agreement for Electron Counting Detector for Cryo Transmission Electron Microscopy & Associated Services",
-      "description": "PURCH2986 Contract Agreement for Electron Counting Detector for Cryo Transmission Electron Microscopy & Associated Services and Maintenance for the period of 36 Months, with a further 2 optional extension periods of 12 months.\nThis procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT).\nTender documents available from Public Contracts Scotland.\nTender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the ‘Contact Us’ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-      "country": "United Kingdom",
-      "buyer": "University of Glasgow",
-      "deadline": "2026-11-26T12:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-079002",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-      "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and\nsupported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members\nmanage more than 90% of UK’ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services\nincluding framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive\nreporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section\n1(4) of that Act.\nPlease refer to www.pfh.co.uk for additional information.\nPfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience\noffering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services\nand technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-      "country": "United Kingdom",
-      "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-      "deadline": "2026-11-17T12:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078f5f",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
