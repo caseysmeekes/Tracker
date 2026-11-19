@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:06:50.329093+00:00",
+  "updated_at": "2026-11-19T01:01:47.104917+00:00",
   "live_only": true,
   "source_count": 1,
   "errors": [],
@@ -181,6 +181,18 @@
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0692e8",
       "matched_categories": [],
       "score": 16,
+      "source": "UK Find a Tender",
+      "status": "LIVE"
+    },
+    {
+      "title": "National Framework Agreement for the provision of Sexual Health Services",
+      "description": "The demand for accessible, high-quality and innovative sexual health services continues to evolve in response to changing population needs, advances in clinical practice, increasing digital delivery models and the ongoing focus on reducing health inequalities.\nThe Framework will provide Relevant Authorities with a fully compliant route for the provision of sexual health services, supporting the commissioning of integrated, digital, clinical, diagnostic, prevention, outreach and specialist support services. The Framework is designed to enable Contracting Authorities to secure services that improve public health outcomes, promote early intervention and prevention, support vulnerable populations, and ensure equitable access to care. \nThe overall aim of the Framework is to provide a compliant route to market facilitating the procurement of various Sexual Health Services. \nThe Framework has been established under The Health Care Services (Provider Selection Regime) Regulations 2023 and The Health Services (Provider Selection Regime) (Wales) Regulations 2025 (and as amended) (together the PSR) for use by all Relevant Authorities (and any future successors to these organisations).\n\"Relevant Authority\" is defined in section 12ZB(7) of the National Health Service Act 2006 and in section 10A(9) of the National Health Service (Wales) Act 2006. It means a combined authority, an integrated care board, a local authority in England, NHS England, an NHS foundation trust or an NHS trust established under section 25 of the National Health Service Act 2006, a county council or county borough council in Wales, a local health board established under section 11 of the National Health Service (Wales) Act 2006, a National Health Service trust established under section 18 of the National Health Service (Wales) Act 2006, or a special health authority established under section 22 of the National Health Service (Wales) Act 2006. \nFor the avoidance of doubt, any successor bodies of any of the above entities shall be entitled to place Orders and shall be deemed Relevant Authorities for the purposes of this Framework.\nThe Framework will be re-opened to new applicants every two years, approximately 90 days before the anniversary of the Framework Commencement Date.",
+      "country": "United Kingdom",
+      "buyer": "COUNTESS OF CHESTER HOSPITAL NHS FOUNDATION TRUST",
+      "deadline": "2027-01-14",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07beed",
+      "matched_categories": [],
+      "score": 12,
       "source": "UK Find a Tender",
       "status": "LIVE"
     }
