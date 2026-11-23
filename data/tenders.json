@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:06:07.509530+00:00",
+  "updated_at": "2026-11-23T00:07:02.468903+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -50,18 +50,6 @@
       "matched_categories": [],
       "score": 24,
       "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "35394878",
-      "description": "35394878 26.212.02 Disability Employment Service - Request for Information RFI 12:00 PM 23 Nov 2026 (Pacific/Auckland UTC+13:00) Ministry of Social Development",
-      "country": "New Zealand",
-      "buyer": "",
-      "deadline": "12:00 PM 23 Nov 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=35394878",
-      "matched_categories": [],
-      "score": 16,
-      "source": "NZ GETS",
       "status": "LIVE"
     },
     {
@@ -119,18 +107,6 @@
       "buyer": "East Dunbartonshire Council",
       "deadline": "2026-12-11T12:00:00Z",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b8eb",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "CP-401 - Aster Group External Decorations",
-      "description": "Aster Group is a housing association which provides quality, affordable homes to thousands of people across the south of England and London. Its vision is that everyone has a home. See our website for more details www.aster.co.uk/corporate/about-us\nThe not-for-dividend business was established in 1990 and has £2.5 billion worth of social housing assets. The Group reinvests profits from open market sale and shared ownership to support the development of affordable homes. It owns and maintains over 37,000 homes and employs over 2,000 people.\nCentral and Cecil Housing Trust (C&C), East Boro Housing Trust (EBHT) and Enham Trust form part of the Aster Group. For further information visit: www.ccht.org.uk, www.ebht.org.uk and www.enhamtrust.org.uk.\nAster Group Limited (\"Aster\") has a requirement for three contractors to provide External Decoration services, including but not limited to:\n•\tRedecoration of all previously painted external surfaces and internal common parts.\n•\tMinor external fabric repairs including:\no\tRenewal of fascias and soffits where required (to match existing).\no\tRenewal of timber canopies where required.\no\tRepointing of brick work.\n•\tMinor prior to paint repairs.\n•\tTimber window repairs.\n•\tRenewal of communal floor finishes where required.\nAster's requirement is across its full geographical coverage and will be split into the following lots with the corresponding approx. number of properties:\n•\tLot 1 (East)\no\tBerkshire - 205\no\tHampshire - 8416\no\tOxfordshire - 612\no\tWiltshire (incl. Gloucestershire) - 8606\n•\tLot 2 (London and Outer Areas)\no\tLondon - 1969\no\tSurrey - 441\no\tSussex - 736\n•\tLot 3 (West)\no\tDorset - 803\no\tSomerset (incl. Bristol) - 5339\no\tDevon and Cornwall - 3208\nNB: The property numbers are approximate and may make up multi dwelling properties.\nSuppliers may submit bids for multiple lots; however, only one supplier will be awarded each lot. Where a supplier achieves the highest ranking in more than one lot, Aster Group reserves the right to determine which lot will be awarded to that supplier. In such circumstances, the lot not awarded to the highest-ranked supplier will instead be awarded to the supplier ranked second for that lot.\nAster's procurement for external decorations is anticipated to be a single stage tender process and will be undertaken via CHIC's All Under One Roof' DPS (Lot 20 - Decoration Services).\nThe evaluation criteria is anticipated to be 60/40 (price/quality).\nAster has a target start date of May 2027, by which point mobilisation should be completed (TUPE is applicable) and contractors are fully onboarded to Aster's Approved Supplier List and familiar with its Contractor Portal. By the contract start date, the contractor should ensure a fully resourced programme is made available to Aster.\nThe form of contract Aster anticipated to contract with is the JCT Measured Term Contract (2024 edition) containing Aster amendments.",
-      "country": "United Kingdom",
-      "buyer": "ASTER GROUP LIMITED",
-      "deadline": "2026-11-23",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b7a8",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
