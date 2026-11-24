@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T00:35:56.387956+00:00",
+  "updated_at": "2026-11-24T04:14:19.915492+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -53,15 +53,27 @@
       "status": "LIVE"
     },
     {
-      "title": "35287569",
-      "description": "35287569 RFP26-665 Request For Proposal for the appointment of Suppliers to the Panel for the Supply of Urinalysis Analyser, Consumables and Maintenance Services_ RFP 26-665 RFP 5:00 PM 23 Nov 2026 (Pacific/Auckland UTC+13:00) Health New Zealand (Te Whatu Ora)",
+      "title": "35317953",
+      "description": "35317953 SDC2627-1 SDC2627-1 - Kopuatama Cemetery - New Land - Concept and Construction Design - Request for Proposal - 2026 RFP 12:00 PM 26 Nov 2026 (Pacific/Auckland UTC+13:00) Stratford District Council",
       "country": "New Zealand",
       "buyer": "",
-      "deadline": "5:00 PM 23 Nov 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=35287569",
+      "deadline": "12:00 PM 26 Nov 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/SDCGOV/ExternalTenderDetails.htm?id=35317953",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "2324-0071 Flexible Framework Agreement for the Procurement and Management of Nightly Purchased Accommodation",
+      "description": "Islington Council is re-opening its flexible framework agreement for the procurement and management of nightly purchased accommodation.  We invite suitable expressions of interest from suppliers interested in working alongside us to deliver this essential service.",
+      "country": "United Kingdom",
+      "buyer": "Islington Council",
+      "deadline": "2026-12-18T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-041e16",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
