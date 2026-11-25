@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:35:51.718276+00:00",
+  "updated_at": "2026-11-25T02:58:30.786215+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -62,6 +62,18 @@
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "Telemetry Engineering Support Services",
+      "description": "Scottish Water is establishing a Framework Agreement for Telemetry Engineering Support Services, covering the survey, supply, installation, commissioning, decommissioning and documentation of Remote Telemetry Units (RTUs) and associated communications equipment across Scottish Water's water and wastewater asset base, together with reactive telemetry support. Services may be required anywhere in Scotland, so Suppliers must be able to service all geographic areas.<br/><br/>The scope includes, but is not limited to:<br/><br/>- Desktop and on-site surveys of existing and future telemetry installations, including communications surveys (e.g. 4G, SOGEA, FTTP).<br/>- Procurement of RTUs and associated equipment through Scottish Water's mandatory RTU framework, and Factory Acceptance Testing (FAT) prior to delivery to site.<br/>- Supply and installation of RTU associated communications equipment in accordance with Scottish Water specifications (antennas, surge and lightning protection, cable containment, marshalling, relays, signal conditioners, Modbus PLC communications, data gatherers and inter-site comms).<br/>- Programming and end to end (source to screen) commissioning and testing of new and existing plant monitored by the telemetry top end, including hot swaps of live RTUs.<br/>- Decommissioning of RTUs and associated equipment, including safe removal, return of spares and WEEE compliant disposal.<br/>- Production of IO tag sheets, mimics, risk assessments and method statements, commissioning and FAT records, Ready to Go Live documentation and Operation and Maintenance manuals, in line with Scottish Water procedures and a Common Data Environment aligned to ISO 19650.<br/>- Training for Scottish Water Electrical and Mechanical (E&M) support staff on installed telemetry.<br/>- Additional on-site support to Scottish Water E&M teams for communications failures, reactive faults and minor enhancements, and to supplement Scottish Water maintenance teams during periods of high breakdown volumes or staff shortages.<br/><br/>Work will be delivered on assets within Scottish Water's Operational Technology environment, which is in scope of the Network and Information Systems (NIS) Regulations, in accordance with Scottish Water's Telemetry Realisation Process, telemetry procedures and Engineering Specification Section 633 - Telemetry. The Supplier will act as Principal Contractor only and must provide its own base facilities, as Scottish Water will not make premises available.<br/><br/>Call-off contracts will be awarded under the Framework by direct allocation or mini-competition. Scottish Water may appoint more than one Supplier. Appointment to the Framework does not guarantee any volume or value of work.<br/><br/>This opportunity is aimed at telemetry, SCADA, instrumentation and controls and electrical engineering contractors with proven capability in delivering telemetry installations on operational water and wastewater assets, a competent and suitably qualified workforce, and the capacity to respond across Scotland.",
+      "country": "United Kingdom",
+      "buyer": "Scottish Water",
+      "deadline": "2027-01-20T12:00:00Z",
+      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07c2ba",
+      "matched_categories": [],
+      "score": 16,
+      "source": "UK Find a Tender",
       "status": "LIVE"
     },
     {
@@ -143,18 +155,6 @@
       "buyer": "London Luton Airport Operations Limited",
       "deadline": "2027-01-08T12:00:00Z",
       "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07b6cb",
-      "matched_categories": [],
-      "score": 16,
-      "source": "UK Find a Tender",
-      "status": "LIVE"
-    },
-    {
-      "title": "Sight Testing and Dispensing of Spectacles to Children and Young People in Special Educational Settings (SES) - South West",
-      "description": "This notice is inform the market of an opportunity to deliver Sight Testing and Dispensing of Spectacles to Children and Young People in Special Educational Settings within the South West region, covering Devon, Cornwall and Isles of Scilly (CIOS), Bristol, North Somerset and South Gloucestershire (BNSSG) and Gloucestershire Integrated Care Boards (ICBs). \nBNSSG, Gloucestershire, Devon and CIOS ICBs ('the Commissioner') are the contracting authorities for this procurement. The Commissioner may be subject to a restructure of its functions during or following this procurement process. In such circumstances, the functions to which this contract relates may be transferred to a successor or replacement public body. Bidders will be informed of any such change, and any changes because of it.\nThe procurement is divided into the following Lots: \n•\tLot 1: BNSSG and Gloucestershire\n•\tLot 2: Devon and CIOS \nThe contract(s) term will be for 3 years and 5 months (inclusive of the mobilisation period) plus a possible extension of up to a period of a further 2 years. Both contract(s) are due to commence on 01 April 2027 with service delivery anticipated to commence from 01 September 2027. \nThe annual contract value for Lot 1 is £306,000 with a total maximum contract value of £1,530,000 (including extension option).\nThe annual contract value for Lot 2 is £350,000 with a total maximum contract value of £1,750,000 (including extension option). \nInterested parties who wish to take part in the procurement are invited to take part in an Invitation to Tender (ITT) process, based on the competitive 'open' procedure. All ITT responses must be returned by 12 noon on 10th December 2026.\nInterested providers will be able to view the opportunity and access the tender documentation via the 'Live Opportunities' list on the e-procurement system, Atamis, available on the following link: https://health-family.force.com/s/Welcome\nThis exercise is being carried out by NHS South, Central and West Commissioning Support Unit (SCW) on behalf of the Commissioner.\nSCW is currently subject to restructuring, and the management of this procurement may therefore move to a successor at some point during the procurement process.  Bidders will be informed of any such change, and any administrative changes because of it.",
-      "country": "United Kingdom",
-      "buyer": "NHS Devon Integrated Care Board",
-      "deadline": "2026-12-10T12:00:00Z",
-      "source_url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06efc1",
       "matched_categories": [],
       "score": 16,
       "source": "UK Find a Tender",
