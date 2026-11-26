@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:21:45.613474+00:00",
+  "updated_at": "2026-11-26T02:06:15.203579+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
@@ -53,12 +53,12 @@
       "status": "LIVE"
     },
     {
-      "title": "35317953",
-      "description": "35317953 SDC2627-1 SDC2627-1 - Kopuatama Cemetery - New Land - Concept and Construction Design - Request for Proposal - 2026 RFP 12:00 PM 26 Nov 2026 (Pacific/Auckland UTC+13:00) Stratford District Council",
+      "title": "35370310",
+      "description": "35370310 [None] EOI Technical Consultancy Services Panel for Strategic Network Design &amp; Engineering Services RFP 4:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00) Orion New Zealand Limited",
       "country": "New Zealand",
       "buyer": "",
-      "deadline": "12:00 PM 26 Nov 2026 (Pacific/Auckland UTC+13:00)",
-      "source_url": "https://www.gets.govt.nz/SDCGOV/ExternalTenderDetails.htm?id=35317953",
+      "deadline": "4:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/Orion/ExternalTenderDetails.htm?id=35370310",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
