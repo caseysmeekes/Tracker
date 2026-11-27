@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-26T02:38:04.627423+00:00",
+  "updated_at": "2026-11-27T02:04:32.893651+00:00",
   "live_only": true,
   "source_count": 2,
   "errors": [],
   "results": [
+    {
+      "title": "35412339",
+      "description": "35412339 ADCENT-1178502 Request for Information (On Behalf) – Tokelau Inter-Atoll Ferry and Haul-Out System (TenderLink ADCENT-1178502) RFI 5:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00) Ministry of Foreign Affairs and Trade",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=35412339",
+      "matched_categories": [],
+      "score": 24,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
     {
       "title": "Contractor Services Framework Agreement",
       "description": "This framework is for the delivery of the following:\n- Port Infrastructure Works\n- Port Machinery Passenger Access Systems\n- Port Machinery Linkspans\n- Ground Investigation Works\n- Port Maintenance - Electrical\n- Port Maintenance - Minor Civils Works\nFor Ports and Harbours that support the Clyde and Hebridean Ferry Services (CHFS) as the core geographical location. Details of the ports owned and managed by CMAL can be found at the following link - https://www.cmassets.co.uk/harbours/locations/ (copy and paste to browser)\nContracting authorities (clients) named in the Contract Notice have the option to utilise the framework for relevant works within their respective geographical areas.\nTenderers are invited to submit bid(s) for up to 2 Lots within this framework agreement which has a core term of four (4) years.  CMAL reserves the right to extend the framework agreement for a further four (4) years.",
@@ -59,6 +71,18 @@
       "buyer": "",
       "deadline": "4:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00)",
       "source_url": "https://www.gets.govt.nz/Orion/ExternalTenderDetails.htm?id=35370310",
+      "matched_categories": [],
+      "score": 16,
+      "source": "NZ GETS",
+      "status": "LIVE"
+    },
+    {
+      "title": "35489469",
+      "description": "35489469 26_076 PNCC RFI (Request for Information) - Library Management System (LMS) RFI 5:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00) Palmerston North City Council",
+      "country": "New Zealand",
+      "buyer": "",
+      "deadline": "5:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00)",
+      "source_url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=35489469",
       "matched_categories": [],
       "score": 16,
       "source": "NZ GETS",
